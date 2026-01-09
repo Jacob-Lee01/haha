@@ -1,0 +1,19 @@
+# Windows
+NTUSER.*
+AppData/
+*.lnk
+
+# 개인 폴더
+Desktop/
+Documents/
+Downloads/
+
+# 문서
+*.pdf
+*.pptx
+*.docx
+
+# 개발
+.vscode/
+__pycache__/
+
